@@ -1,6 +1,6 @@
 # video_download
 
-## hint
+## hints for encrypted m3u8 video download 
 
 1. install modules
 2. create m3u8_utl.txt under m3u8_download dir
